@@ -1,6 +1,6 @@
 ##### Bruteforce-demo
-
-##### _This hands on lab was worked on to display my current knowledge and put it into practical by stimulating a real world brute force attack and understanding how it works from a hackers point of view. As a pen tester expliotation is the next step after information garthering._
+---
+##### _This is a simple display of how bruteforce attacks work, and also highlights the importance of redteam thinking. We could also see the relationship between information garthering and exploitation._
 
 ---
 
