@@ -5,10 +5,10 @@
 ---
 
 ##### Tools Used
-- Nmap
-- Kali
-- Metaspliotable OS
-- msfconsole
+- Nmap.
+- Kali.
+- Metaspliotable OS.
+- Metaspliot framework.
 ---
 
 ##### Steps
