@@ -1,6 +1,6 @@
 ##### Bruteforce-demo🥷🏿⛓️‍💥
 ---
-##### _This is a simple display of how bruteforce attack works, the lab also highlights the importance of redteam thinking, We could also see the relationship between information garthering and exploitation from the nmap open port being the one explored for exploitation._
+##### _This is a simple display of how bruteforce attack works, the lab highlights the importance of redteam thinking, and the relationship between information garthering and exploitation, from the nmap open port being the one explored for exploitation._
 
 ---
 
