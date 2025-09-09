@@ -1,6 +1,6 @@
 ##### Bruteforce-demo
 
-##### _This hands on lab was walk on to display my current knowledge and put it into practical by stimulating a real word brute force attack and understanding how it works from a hackers point of view. As a pen tester expliotation is the next step after reconssinace and information garthering._
+##### _This hands on lab was worked on to display my current knowledge and put it into practical by stimulating a real word brute force attack and understanding how it works from a hackers point of view. As a pen tester expliotation is the next step after information garthering._
 
 ---
 
